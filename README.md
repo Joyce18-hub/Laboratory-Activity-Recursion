@@ -1,6 +1,7 @@
 # Laboratory-Activity-Recursion
 A Java program that performs a recursive binary search. The program accepts user input, sorts the array, and returns the index of the target value or -1 if not found.
-# Programming Language: Java
+# Programming Language
+Java
 ## How to Compile and Run
 javac Binary_Search.java
 java Binary_Search
